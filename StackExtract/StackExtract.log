@@ -1,0 +1,106 @@
+2022-03-03 10:38:52,630 DEBUG    main.py:79 stack_list len: 282
+2022-03-03 10:38:53,113 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:54,153 DEBUG    main.py:79 stack_list len: 685
+2022-03-03 10:38:54,477 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:55,187 DEBUG    main.py:79 stack_list len: 631
+2022-03-03 10:38:55,617 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:55,627 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:38:55,627 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:57,072 DEBUG    main.py:79 stack_list len: 1659
+2022-03-03 10:38:57,898 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:58,579 DEBUG    main.py:79 stack_list len: 912
+2022-03-03 10:38:59,075 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:59,082 DEBUG    main.py:79 stack_list len: 18
+2022-03-03 10:38:59,089 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:38:59,511 DEBUG    main.py:79 stack_list len: 78
+2022-03-03 10:38:59,575 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:02,149 DEBUG    main.py:79 stack_list len: 1968
+2022-03-03 10:39:03,032 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:04,982 DEBUG    main.py:79 stack_list len: 2153
+2022-03-03 10:39:05,885 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:09,953 DEBUG    main.py:79 stack_list len: 2143
+2022-03-03 10:39:10,792 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:10,796 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:39:10,797 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:12,602 DEBUG    main.py:79 stack_list len: 454
+2022-03-03 10:39:12,815 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:14,039 DEBUG    main.py:79 stack_list len: 1097
+2022-03-03 10:39:14,682 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:15,754 DEBUG    main.py:79 stack_list len: 904
+2022-03-03 10:39:16,266 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:22,792 DEBUG    main.py:79 stack_list len: 7423
+2022-03-03 10:39:25,917 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:25,976 DEBUG    main.py:79 stack_list len: 4
+2022-03-03 10:39:25,986 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,010 DEBUG    main.py:79 stack_list len: 62
+2022-03-03 10:39:26,072 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,082 DEBUG    main.py:79 stack_list len: 12
+2022-03-03 10:39:26,101 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,104 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:39:26,104 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,111 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:39:26,111 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,122 DEBUG    main.py:79 stack_list len: 9
+2022-03-03 10:39:26,137 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:26,835 DEBUG    main.py:79 stack_list len: 1101
+2022-03-03 10:39:27,276 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:27,827 DEBUG    main.py:79 stack_list len: 811
+2022-03-03 10:39:28,175 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:28,188 DEBUG    main.py:79 stack_list len: 8
+2022-03-03 10:39:28,202 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:39:57,105 DEBUG    main.py:79 stack_list len: 679
+2022-03-03 10:39:57,446 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:06,456 DEBUG    main.py:79 stack_list len: 3678
+2022-03-03 10:40:07,605 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:09,452 DEBUG    main.py:79 stack_list len: 1132
+2022-03-03 10:40:10,107 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:10,130 DEBUG    main.py:79 stack_list len: 31
+2022-03-03 10:40:10,160 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:16,030 DEBUG    main.py:79 stack_list len: 4860
+2022-03-03 10:40:17,802 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:20,610 DEBUG    main.py:79 stack_list len: 2423
+2022-03-03 10:40:21,435 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:24,804 DEBUG    main.py:79 stack_list len: 1061
+2022-03-03 10:40:25,254 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:28,014 DEBUG    main.py:79 stack_list len: 2291
+2022-03-03 10:40:29,073 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:29,077 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:40:29,078 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:29,102 DEBUG    main.py:79 stack_list len: 67
+2022-03-03 10:40:29,142 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:29,153 DEBUG    main.py:79 stack_list len: 2
+2022-03-03 10:40:29,156 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:35,013 DEBUG    main.py:79 stack_list len: 3196
+2022-03-03 10:40:36,130 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:38,304 DEBUG    main.py:79 stack_list len: 1993
+2022-03-03 10:40:39,122 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:39,167 DEBUG    main.py:79 stack_list len: 64
+2022-03-03 10:40:39,207 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:39,242 DEBUG    main.py:79 stack_list len: 54
+2022-03-03 10:40:39,280 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:40,461 DEBUG    main.py:79 stack_list len: 766
+2022-03-03 10:40:40,767 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:40,773 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:40:40,774 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:41,336 DEBUG    main.py:79 stack_list len: 522
+2022-03-03 10:40:41,591 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:46,819 DEBUG    main.py:79 stack_list len: 2820
+2022-03-03 10:40:47,883 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:47,900 DEBUG    main.py:79 stack_list len: 42
+2022-03-03 10:40:47,928 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:47,936 DEBUG    main.py:79 stack_list len: 24
+2022-03-03 10:40:47,947 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:48,733 DEBUG    main.py:79 stack_list len: 322
+2022-03-03 10:40:48,863 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:49,026 DEBUG    main.py:79 stack_list len: 222
+2022-03-03 10:40:49,153 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:49,354 DEBUG    main.py:79 stack_list len: 85
+2022-03-03 10:40:49,470 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:49,517 DEBUG    main.py:79 stack_list len: 63
+2022-03-03 10:40:49,537 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:54,124 DEBUG    main.py:79 stack_list len: 3023
+2022-03-03 10:40:55,094 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:55,103 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:40:55,103 DEBUG    main.py:157 write to MySQL OK!
+2022-03-03 10:40:55,111 DEBUG    main.py:79 stack_list len: 0
+2022-03-03 10:40:55,111 DEBUG    main.py:157 write to MySQL OK!
